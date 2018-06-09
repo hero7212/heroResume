@@ -35,7 +35,7 @@
 }
 /* 白色背景太单调了，我们来点背景 */
 html {
-  color: rgb(222,222,222); background: rgb(13,6,8);
+  color: rgb(222,222,222); background: rgb(33,16,10);
 }
 /* 文字离边框太近了 */
 .styleEditor {
@@ -121,25 +121,19 @@ html{
 * 学历：大专
 * 现居地：南京
 * 电话：18021409335
-* Github: [July](http://github.com/labnize)
-* Blog: [July's life](http://july.life)
+* Blog: https://hero7212.github.io/myBlog1/index.html#/
 
 技能
 ----
 
 * 4年前端开发经验，熟悉HTML5/CSS3/JavaScript
-* 熟悉框架React/React-router/Mobx、Vue/Vue-router/Vuex、 jQuery、Backbone、BootStrap
-* 熟悉打包工具Webpack、Gulp等
-* 有后端C、C++开发经验，有网络编程、多线程编程经验，了解MySQL数据库
-* 精通基础技能：命令行、代码版本控制(Git、Svn)、开发环境(VS Code、Webstorm、Sublime等)、文档工具(GitBook、Markdown等)、建模工具(Axure、OmniGraffle、MS Visio等);
-* 有专利撰写经验，熟悉专利申请流程，拥有专利工程师培训证书
+* 熟悉框架React/React-router、Vue/Vue-router/Vuex/elementUI、jQuery、BootStrap
+* 熟悉打包工具Webpack,包管理工具npm、yarn
 
 工作经历
 ----
 
-1. ZTE 中兴通讯 ---- 中国Lora应用联盟 前端负责人
-2. AsiaInfo 亚信科技 ---- P9PAAS项目 前端负责人
-3. CrabxLab ---- 软件工程师
+* 待补充...
 
 项目经验
 ----
